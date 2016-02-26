@@ -8,7 +8,24 @@
 	</div>
 </div>
 <div class='columns'>
-	
+	<div class='module'>
+
+	</div>
+	<div class='module'>
+		
+	</div>
+	<div class='module'>
+		
+	</div>
+	<div class='module'>
+
+	</div>
+	<div class='module'>
+		
+	</div>
+	<div class='module'>
+		
+	</div>
 </div>
 
 <?php include 'foot.php' ?>
